@@ -2,7 +2,9 @@
 
 ![Header](./davertor-github-header-image.png)
 
-I'm **Senior Data Scientist** who is passionate about new technologies such us **Computer Vision**, **DeepLearning**, **AI** and **Python**. I am currently working as a Lead Computer Vision Engineer at GFT Technologies.
+💡 Industrial engineer with a passion for technology, programming, basketball, travelling & continuous self-learning. 
+
+💼 I am currently working at GFT Technologies, leading the computer vision division of the company.
 
 ## Skills
 - 🧠 Pytorch, HuggingFace, Tensorflow, Keras, TensorflowLite, Sklearn
