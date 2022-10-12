@@ -11,6 +11,10 @@ I'm **Senior Data Scientist** who is passionate about new technologies such us *
 - ⚙️ Flask, FastAPI
 - ☁️ Google Cloud Platform (GCP)
 
+## Find me around the web 🌎:
+
+<img align="left" width="150" height="150" src="https://github.com/davertor/davertor/danielverdu_octocat.png?raw=true">
+
 I love connecting with different people so if you want to say hi, I'll be happy to meet you more! :)
 
 Made with :heart:
