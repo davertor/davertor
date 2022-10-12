@@ -1,4 +1,6 @@
-# Hi, I'm Daniel Verdú 👋 👨🏽‍💻
+# Hi, I'm Daniel Verdú 👋 
+
+![Header](./davertor-github-header-image.png)
 
 I'm **Senior Data Scientist** who is passionate about new technologies such us **Computer Vision**, **DeepLearning**, **AI** and **Python**. I am currently working as a Lead Computer Vision Engineer at GFT Technologies.
 
