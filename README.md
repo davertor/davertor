@@ -2,16 +2,14 @@
 
 ![Header](./davertor-github-header-image.png)
 
-💡 Industrial engineer with a passion for technology, programming, basketball, travelling & continuous self-learning. 
+💡 Industrial engineer passionate about AI, technology, basketball, traveling & particle physics. 
 
-💼 I am currently working at GFT Technologies, leading the computer vision division of the company.
+💼 Since 2023, I work as a Senior Data Scientist @ Freepik Company, focused in Generative AI topics
 
 ## Skills
-- 🧠 Pytorch, HuggingFace, Tensorflow, Keras, TensorflowLite, Sklearn
-- 👨‍💻 Python, Docker, Git 
-- 👁️ Streamlit, Gradio, QT
-- ⚙️ Flask, FastAPI
-- ☁️ Google Cloud Platform (GCP)
+- 🧠 Python, Pytorch & HuggingFace ecosystem (Diffusers & Transformers mainly) are my daily basics.
+- ⚙️ Besides, I am familiar with both hardware & software (OpenCV, PIL) related to the computer vision industry
+- 🏆 I won the SpainAI Hackathon (Computer vision challenge) that consisted of upscaling low-resolution images. Besides, in June 2014, I was awarded for my bachelor's thesis as "Best National Project in control systems" by the Spanish Automation Committee (CEA) for developing a drone control flight algorithm.
 
 ## Find me around the web 🌎:
 
